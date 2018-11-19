@@ -32,10 +32,9 @@ sites$E1[i]<-ans
 # Start building network
 RL6.7_topology<-subset(RL6.7[2:3])
 g2<-graph.data.frame(RL6.7_topology,vertices=sites,directed=FALSE)
-g<-simplify(g2)
-V(g)$color<-ifelse(V(g)$E1==TRUE,"white","grey")
-V(g)$color<-ifelse(V(g)$E1==TRUE,"white","grey")
-plot(g,vertex.label.color="black",vertex.size=20,edge.color="black",edge.width=1.5)
+V(g2)$color<-ifelse(V(g2)$E1==TRUE,"white","grey")
+V(g2)$color<-ifelse(V(g2)$E1==TRUE,"white","grey")
+plot(g2,vertex.label.color="black",vertex.size=20,edge.color="black",edge.width=1.5)
 
 length(ls())
 

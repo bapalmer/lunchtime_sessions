@@ -3,8 +3,8 @@ title: "Lunchtime sessions"
 author: "Brendan Palmer"
 date: "3rd December 2018"
 output:
-  word_document: default
   html_document: default
+  word_document: default
 ---
 
 That first bit was a YAML header (optional). You can control "whole document" settings by tweaking the YAML header. With YAML, indentation is important, so just keep it simple first as you get up and running. 

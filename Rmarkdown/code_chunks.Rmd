@@ -2,7 +2,9 @@
 title: "Lunchtime sessions"
 author: "Brendan Palmer"
 date: "3rd December 2018"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 It's good to give your chunks names, but don't give two chunks the same name

@@ -19,3 +19,10 @@ This session will initially be spent examining the main elements of R Markdown f
 The take home message from this session is: 
 
 If I can build an R Markdown report in a room "full" of people watching me, then you can easily do it too in the privacy of your own home!!
+
+## **Session 3:**
+### *How to integrate Git with RStudio*
+
+During the research life cycle the work undertaken changes and evolves. Sometimes we need to know what those changes were. Git is a version control system that enables you to track timestamped copies of your work. 
+
+While before you might have had multiple copies of the same file on your system, with Git, you can navigate between older versions through a single master file, restore previous versions and much, much more. Downstream from this, GitHub is an online hosting service that allows you to publicly share your code or engage with collaborators remotely. The added advantage is that you will have both a local and online copy of your work.

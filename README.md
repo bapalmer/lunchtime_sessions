@@ -30,4 +30,4 @@ While before you might have had multiple copies of the same file on your system,
 ## **Session 4:**
 ### *Open Science and reporducible research*
 
-This session will be delivered to University College Cork postgraduate students on the need, benefits and paths towards reproducible research. It will start with some horror stories of high profile faults in the wider research arena. This will be followed with initiatives that are taking place now to address this. I'll finish with a predictible call to learn R as a means to achieve this!  
+This session will be delivered to University College Cork postgraduate students on the need, benefits and paths towards reproducible research. It will start with some horror stories of high profile faults in the wider research arena. This will be followed with initiatives that are taking place now to address this. I'll finish with a predictable call to learn R as a means to achieve this!  

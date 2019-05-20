@@ -121,17 +121,23 @@ The chucks can be given names, but two chunks can't have the same name. This has
 * `results = "hide"` - hides the printed output
 * `error = TRUE` - causes the render to continue even if the code returns an error
 
++ Example 1
+
 ```{r Chunk option 1a, eval = FALSE}
 x <- c(1:10)
 
 mean(x)
 ```
 
++ Example 2
+
 ```{r Chunk option 1b, eval = TRUE}
 x <- c(1:10)
 
 mean(x)
 ```
+
++ Example 3
 
 ```{r Chunk option 2a, include = TRUE}
 x <- c(1:10)
@@ -140,13 +146,16 @@ mean(x)
 mean(y)
 ```
 
++ Example 4
+
 ```{r Chunk option 2b, include = FALSE}
 x <- c(1:10)
 
 mean(x)
-mean(y)
+mean_of_y <- mean(y)
 ```
 
+i.e. Nothing displays but the values are stored within R and can be called on when you need them, such as now (mean of y = `r mean_of_y`)
 
 ```{r packages and setup, echo = FALSE}
 library(tidyverse)

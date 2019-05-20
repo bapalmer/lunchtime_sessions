@@ -27,3 +27,7 @@ During the research life cycle the work undertaken changes and evolves. Sometime
 
 While before you might have had multiple copies of the same file on your system, with Git, you can navigate between older versions through a single master file, restore previous versions and much, much more. Downstream from this, GitHub is an online hosting service that allows you to publicly share your code or engage with collaborators remotely. The added advantage is that you will have both a local and online copy of your work.
 
+## **Session 4:**
+### *Open Science and reporducible research*
+
+This session will be delivered to University College Cork postgraduate students on the need, benefits and paths towards reproducible research. It will start with some horror stories of high profile faults in the wider research arena. This will be followed with initiatives that are taking place now to address this. I'll finish with a predictible call to learn R as a means to achieve this!  

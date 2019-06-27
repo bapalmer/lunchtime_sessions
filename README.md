@@ -31,3 +31,16 @@ While before you might have had multiple copies of the same file on your system,
 ### *Open Science and reporducible research*
 
 This session will be delivered to University College Cork postgraduate students on the need, benefits and paths towards reproducible research. It will start with some horror stories of high profile faults in the wider research arena. This will be followed with initiatives that are taking place now to address this. I'll finish with a predictable call to learn R as a means to achieve this!  
+
+## **Session 5:**
+### *Correctly reporting your clinical trial*
+### *HRB TMRN workshop, 28th July 2019, Catherine McAuley Lecture Theatre, University College Dublin*
+
+The workshop will be provided in three parts.
+1. How to register and report your clinical trial in EuroCt and ClinicalTrails.gov - Sebastian Vencken
+2. How to correctly report your clinical trial in scientific journals - Darren Dahly
+3. Methods to further enhance transparency and reproducibility of your clinical trial - Brendan Palmer
+
+The notes for part 3 are provided here.
+
+ 

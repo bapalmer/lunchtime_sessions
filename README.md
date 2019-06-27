@@ -34,6 +34,7 @@ This session will be delivered to University College Cork postgraduate students 
 
 ## **Session 5:**
 ### *Correctly reporting your clinical trial*
+
 ### *HRB TMRN workshop, 28th July 2019, Catherine McAuley Lecture Theatre, University College Dublin Clinical Research Centre*
 
 The workshop will be provided in three parts.

@@ -12,7 +12,7 @@ The answer to many, if not all of these questions, can be found through the use 
 ## **Session 2:**
 ### *Reproducible reports with R Markdown and knitr*
 
-Rmarkdown allows you to move directly from your analyses to the reporting stage thereby eliminating unseen copy/paste errors that inevitably occur when you consider the 1000 copy/paste actions that are likely to be performed every day of every week of every year.
+R Markdown allows you to move directly from your analyses to the reporting stage thereby eliminating unseen copy/paste errors that inevitably occur when you consider the 1000 copy/paste actions that are likely to be performed every day of every week of every year.
 
 This session will initially be spent examining the main elements of R Markdown for first time users. The second half will be a live (excruciatingly painful personal journey) build of an R Markdown report using the R-project from Session 1. Statistical outputs, tables and graphs will be automatically incorporated into the document, avoiding the possibility of errors that commonly occur when manually transferring information from one program to another. R Markdown documents can be (re-)produced in a wide variety of common formats including Word documents, PDF and HTML files.
 
@@ -42,6 +42,20 @@ The workshop will be provided in three parts.
 2. How to correctly report your clinical trial in scientific journals - Darren Dahly
 3. Methods to further enhance transparency and reproducibility of your clinical trial - Brendan Palmer
 
-The notes for part 3 are provided here.
+The notes for part 3 are provided [herein](https://github.com/bapalmer/lunchtime_sessions/tree/master/TMRN_UCD_June_2019).
+
+## **Session 6:**
+### *Default settings and spreadsheets*
+
+Increasingly funders are asking for researchers to adhere to [FAIR data principles](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable and Re-usable). This, alongside the roll-out of GDPR, has placed greater onus on the researcher to improve data collection, entry and collation practices. Most researchers do not have access to specialist software in order to faithfully achieve this, so where to begin?
+
+It is estimated that well over half a billion people use Excel as their primary data entry, visualisation and statistics software. The majority of users receive no formal instruction as to its use, and herein lies the problem. However, through the implementation of a few simple steps, the majority of issues that arise within Excel spreadsheets can be eliminated.
+
+This talk:
+1. Begins with a broad introduction as to the dangers of accepting default settings
+2. Goes through some of the more remarkable (yet wholly avoidable) spreadsheet errors
+3. Provides guidance on simple steps that can be taken to improve data collation using Excel
+4. Outlines how to build a reusable data set regardless of the software tools available 
+
 
  

@@ -2,8 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+.pptx
 
-*.pptx
+lectures/
 
-\lectures
 

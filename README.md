@@ -32,7 +32,10 @@ While before you might have had multiple copies of the same file on your system,
 
 This session will be delivered to University College Cork postgraduate students on the need, benefits and paths towards reproducible research. It will start with some horror stories of high profile faults in the wider research arena. This will be followed with initiatives that are taking place now to address this. I'll finish with a predictable call to learn R as a means to achieve this!  
 
-**Packaged data, code and reports**
+**An example scripted, reproducible workflow**
+
+*Link to packaged data, code and reports*
+
 <!-- badges: start -->
 [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bapalmer/RCR/master?urlpath=rstudio)
 <!-- badges: end -->

@@ -65,5 +65,10 @@ This talk:
 3. Provides guidance on simple steps that can be taken to improve data collation using Excel
 4. Outlines how to build a reusable data set regardless of the software tools available 
 
+## **Session 7:**
+### *A Hitchhikers Guide to Reproducible Research*
 
+An inability to reproduce a piece of analysis is a recognised problem in a wide variety of disciplines. In the first half of this session attendees will be given an overview and examples of factors leading to irreproducible research such as data fabrication, poor data management and statistical malpractice. 
+
+In the second half of the session, attendees will be shown how to achieve reproducible research using ‘scripted workflows’. A demonstration will be performed through the R programming language together with the GUI, RStudio. The session will be one hour in duration, with an optional 30 minute hands-on portion where attendees can explore a reproducible R-based workflow for themselves using a pre-prepared Binder session.
  
